@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm here ☕
 
-<!--
-**linda198527/linda198527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **linda198527**, a backend engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Reading the source is the best documentation
+- 🛠️ Build small, ship often
+- 🌱 Always learning new things
+- 🔭 Currently working on personal side projects
+
+## Tech
+
+`Ruby` `Emacs` `Nim` `Astro`
+
+---
+
+_Love a good makefile._
